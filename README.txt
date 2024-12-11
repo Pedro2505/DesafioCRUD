@@ -13,3 +13,6 @@ Microsoft.EntityFrameworkCore
 Microsoft.EntityFrameworkCore.Tools
 Microsoft.EntityFrameworkCore.Design
 Microsoft.EntityframeworkCore.SqlServer
+
+
+so rodar o desafioCRUD.sln
